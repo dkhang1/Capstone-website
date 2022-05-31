@@ -384,6 +384,7 @@
     }
   }
   
+
   .customer .slider .item img {
     filter: grayscale(1);
     transition: 0.3s ease;
@@ -393,6 +394,8 @@
     filter: grayscale(0);
     -webkit-filter: grayscale(0);
   }
+
+
   .team {
     background-color: #f7f9fc;
   }
@@ -472,6 +475,8 @@
   .team .menber-info:hover .item-bottom a h2 {
     color: #dc4f72;
   }
+
+
   .get-started .button .outline-btn {
     line-height: 52px;
     font-weight: 700;
@@ -635,7 +640,6 @@
       padding: 15px 0;
     }
     .header .container .navbar {
-      /* display: none; */
   
       position: absolute;
       top: 100%;
